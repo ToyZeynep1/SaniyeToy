@@ -8,7 +8,7 @@ Welcome to Zeynep TOY's profile! <img src="https://media.giphy.com/media/12oufCB
 
 - 💻 I'm iOS Developer
 - 🔭 I’m currently working on SwiftUI
-- 🥅 2022 Goals: Learn more about Swift and produce more open source projects
+- 🥅 2024 Goals: Learn more about Swift and produce more open source projects
 - 💞️ Fun fact: I love to mandala painting and knit
 
 ## :mailbox: How to reach me :
